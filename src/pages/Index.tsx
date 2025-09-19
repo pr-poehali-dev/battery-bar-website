@@ -192,7 +192,7 @@ export default function Index() {
               <span className="block text-primary animate-float">Батарейка</span>
             </h2>
             <p className="text-xl md:text-2xl text-foreground/80 mb-8 animate-fade-in">
-              Место, где оживает музыка. Каждый вечер — новые эмоции, талантливые исполнители и незабываемая атмосфера.
+              Первый кавер-бар в Москве. Место, где оживает музыка. Каждый вечер — новые эмоции, талантливые исполнители и незабываемая атмосфера.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 animate-scale-in">
               <Button 
